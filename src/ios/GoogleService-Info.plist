@@ -7,9 +7,9 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>377193912139-untso9aghit53eqk4md34e3nuunrcvm9.apps.googleusercontent.com</string>
+	<string>377193912139-siu3mp7dq1tla2o2bp5tph5fukg9qcdq.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.377193912139-untso9aghit53eqk4md34e3nuunrcvm9</string>
+	<string>com.googleusercontent.apps.377193912139-siu3mp7dq1tla2o2bp5tph5fukg9qcdq</string>
 	<key>API_KEY</key>
 	<string>AIzaSyAZfI0_72hS8Evgt8WaAgggsszHVtt9fJo</string>
 	<key>GCM_SENDER_ID</key>
@@ -17,7 +17,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.glive.arihantspot</string>
+	<string>com.srilalithagold</string>
 	<key>PROJECT_ID</key>
 	<string>mobile-132309</string>
 	<key>STORAGE_BUCKET</key>
@@ -33,7 +33,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:377193912139:ios:362b79f6e4c0bef0</string>
+	<string>1:377193912139:ios:93d4ffa24e3dad18</string>
 	<key>DATABASE_URL</key>
 	<string>https://mobile-132309.firebaseio.com</string>
 </dict>
